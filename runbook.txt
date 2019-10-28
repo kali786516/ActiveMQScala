@@ -1,0 +1,3 @@
+/Users/kalit_000/Downloads/apache-activemq-5.15.10/bin/activemq start
+
+http://localhost:8161/index.html
